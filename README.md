@@ -1,48 +1,45 @@
-
+# Hello, World! I'm Kalpak
   <img  align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFmb2Q3ZWNlOXZkdzJmZW9tZXZnMGVhM3dsbzNmYWtmaWl0ZHNwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kluzPOxBzGk4U/giphy.gif" alt="Your Name" width="400"/>
-<h1 align="left" >🚀 Hello, World! I'm Kalpak </h1>
+<p align="left">I am a passionate MERN stack developer who loves turning coffee into code.</p>
 
-
-
-<p align="center">Passionate MERN stack developer turning coffee into code ☕💻</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/chakrabortyK">LinkedIn</a>
+<p align="left">
+  <a href="https://linkedin.com/in/chakrabortyK">LinkedIn</a> |
+  <a href="https://github.com/ChakrabortyK">GitHub</a> |
+  <a href="https://leetcode.com/u/KalpakChakraborty/">LeetCode</a> |
+  <a href="https://www.hackerrank.com/profile/chakrabortyk">HackerRank</a>
 </p>
 
----
+## About Me
 
-### 👨‍💻 About Me
+I am a Computer Science graduate with a keen interest in web development. I strive to create elegant solutions and write clean, maintainable code.
 
-🎓 Computer Science graduate exploring the realms of web development. I believe in elegant solutions and clean code that sparks joy.
+## Tech Stack
 
-### ⚡️ Tech Stack
+- **Frontend:** React.js, Redux, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Mongoose
+- **Other Skills:** WordPress Development, SEO
 
-- Frontend: React.js, Redux, HTML, CSS, JavaScript
-- Backend: Node.js, Express.js
-- Database: MongoDB, Mongoose
+## Currently Learning
 
-### 🌱 Currently Learning
+I am currently experimenting with advanced React.js concepts and enhancing my backend development skills. I am always eager to embrace new challenges and learn new technologies.
 
-Experimenting with ReactJs and sharpening my skills in Backend. Always eager to embrace new challenges!
-
-### 🚀 Projects
+## Projects
 
 - [IMDB Movie Search](https://github.com/ChakrabortyK/movie-app-imdb)
+- [React Blog Application](https://github.com/ChakrabortyK/CRA-Blog-App)
+- [Video Streaming API](https://github.com/ChakrabortyK/youtube-backend)
+- [Doctor Appointment API](https://github.com/ChakrabortyK/doctor-appointment-api)
 
-### 🌈 Fun Facts
 
-- My coding superpower? Turning caffeine into bug-free code.
+## Contact Me
 
-### 📫 Let's Connect
+- **Email:** chakrabortyk21offc@gmail.com
 
-- GitHub: [Your GitHub Profile](https://github.com/ChakrabortyK)
-- Email: chakrabortyk21offc@gmail.com
+## Current Status
 
-### 🚧 Current Status
-
-🔭 Exploring new technologies and building something cool! Open to collaboration and exciting opportunities.
+I am actively exploring new technologies and working on learning about open source projects. I am open to collaboration and new opportunities.
 
 ---
 
-<p align="center">⭐️ Star me on GitHub if you like what you see! ⭐️</p>
+<p align="center">Feel free to star my repositories if you find them interesting!</p>
